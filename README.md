@@ -7,22 +7,27 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEbazhanov%2Flinkedin-skill-assessments-quizzes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-693-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-711-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 > This repository is for those looking for answers to the LinkedIn assessment quiz questions or willing to help others by contributing to the tests. Or possibly you would like to create your first pull request and be added as a contributor. Whatever is your goal - you are always welcome here! Feel free to use [online grammar checker](https://www.grammarly.com/) when you contribute!
 
-### PLEASE
+#### PLEASE 🙏
 
 Add explanation (`or reference link`) to your answers. That will help anyone to better learn concepts they might not have a great understanding about.
 
-#### Announcement:
+#### Announcement 🎉:
 
-If you want to meet each other or discuss quiz related problems join the `Discord` chat
+1. If you want to meet each other or discuss quiz related problems join the `Discord` chat
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/NKCyjjw3MW?theme=light)](https://discord.gg/NKCyjjw3MW)
+
+2. Playground before taking quiz
+   > :one: https://linkthein.vercel.app/
+   >
+   > :two: https://linkedin-faq.github.io/md2practice/
+
+want to contribute? here is the source code https://github.com/linkedin-faq
 
 ### Table of Contents
 
@@ -62,7 +67,7 @@ If you want to meet each other or discuss quiz related problems join the `Discor
 | [HTML](html/html-quiz.md)                                                    |                                                                                                                                                                                      | => 83 questions  | => 83 answers  |                                                                                                                                                      |
 | [IT Operations](it-operations/it-operations-quiz.md)                         |                                                                                                                                                                                      | => 28 questions  | => 28 answers  | [@asahiocean](https://github.com/asahiocean)                                                                                                         |
 | [Java](java/java-quiz.md)                                                    |                                                                                                                                                                                      | => 100 questions | => 100 answers | [@sumanas27](https://github.com/sumanas27), [@ruslanbes](https://github.com/ruslanbes), [@PROCW](https://github.com/PROCW/)                          |
-| [Javascript](javascript/javascript-quiz.md)                                  |                                                                                                                                                                                      | => 112 questions  | => 112 answers  | [@taletski](https://github.com/taletski), [@PROCW](https://github.com/PROCW/)                                                                        |
+| [Javascript](javascript/javascript-quiz.md)                                  |                                                                                                                                                                                      | => 112 questions | => 112 answers | [@taletski](https://github.com/taletski), [@PROCW](https://github.com/PROCW/)                                                                        |
 | [jQuery](jquery/jquery-quiz.md) :open_mouth:                                 |                                                                                                                                                                                      | => 50 questions  | => 50 answers  |                                                                                                                                                      |
 | [JSON](json/json-quiz.md)                                                    |                                                                                                                                                                                      | => 75 questions  | => 74 answers  | [@iHamzaKhanzada](https://github.com/iHamzaKhanzada)                                                                                                 |
 | [Kotlin](kotlin/kotlin-quiz.md)                                              |                                                                                                                                                                                      | => 44 questions  | => 34 answers  | [@ItSNeverLate](https://github.com/ItSNeverLate)                                                                                                     |
@@ -1004,6 +1009,30 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.linkedin.com/in/mohammed-nasser-913023204/"><img src="https://avatars.githubusercontent.com/u/53376993?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MOHAMMED NASSER</b></sub></a><br /><a href="#design-MOHAMMED-NASSER22" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=MOHAMMED-NASSER22" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/fcagnola"><img src="https://avatars.githubusercontent.com/u/56833063?v=4?s=100" width="100px;" alt=""/><br /><sub><b>federico</b></sub></a><br /><a href="#design-fcagnola" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=fcagnola" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/aviolante"><img src="https://avatars.githubusercontent.com/u/13370368?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andre Violante</b></sub></a><br /><a href="#design-aviolante" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=aviolante" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/tcunningham98"><img src="https://avatars.githubusercontent.com/u/71617851?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tcunningham98</b></sub></a><br /><a href="#design-tcunningham98" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=tcunningham98" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.imtek.uni-freiburg.de/professuren/simulation/simulation"><img src="https://avatars.githubusercontent.com/u/29068686?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jan Grießer</b></sub></a><br /><a href="#design-griessej" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=griessej" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/serkanalc/"><img src="https://avatars.githubusercontent.com/u/70329389?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Serkan Alc</b></sub></a><br /><a href="#design-serkanalc" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=serkanalc" title="Code">💻</a> <a href="#content-serkanalc" title="Content">🖋</a></td>
+    <td align="center"><a href="http://jezmck.com"><img src="https://avatars.githubusercontent.com/u/89996?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jez McKean</b></sub></a><br /><a href="#design-jezmck" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=jezmck" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/araxis"><img src="https://avatars.githubusercontent.com/u/1418779?v=4?s=100" width="100px;" alt=""/><br /><sub><b>meisam alifallahi</b></sub></a><br /><a href="#design-araxis" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=araxis" title="Code">💻</a></td>
+    <td align="center"><a href="http://mehulcse.com"><img src="https://avatars.githubusercontent.com/u/7822793?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mehul Thakkar</b></sub></a><br /><a href="#design-mehulcse" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=mehulcse" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/king7saksham"><img src="https://avatars.githubusercontent.com/u/57166834?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saksham Soni</b></sub></a><br /><a href="#design-king7saksham" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=king7saksham" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://linkedin.com/in/pedroperegrinaa"><img src="https://avatars.githubusercontent.com/u/57403682?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pedro Peregrina</b></sub></a><br /><a href="#design-pedroperegrinaa" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=pedroperegrinaa" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/mintuchoudhary/"><img src="https://avatars.githubusercontent.com/u/24916801?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mintu Choudhary</b></sub></a><br /><a href="#design-mintuchoudhary" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=mintuchoudhary" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/lucianmoldovanu"><img src="https://avatars.githubusercontent.com/u/7854275?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lucianmoldovanu</b></sub></a><br /><a href="#design-lucianmoldovanu" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=lucianmoldovanu" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jcscott2015"><img src="https://avatars.githubusercontent.com/u/14879921?v=4?s=100" width="100px;" alt=""/><br /><sub><b>John C. Scott</b></sub></a><br /><a href="#design-jcscott2015" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=jcscott2015" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mia-7-7"><img src="https://avatars.githubusercontent.com/u/81501711?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mia D.</b></sub></a><br /><a href="#design-mia-7-7" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=mia-7-7" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/EwenBernard"><img src="https://avatars.githubusercontent.com/u/73660111?v=4?s=100" width="100px;" alt=""/><br /><sub><b>EwenBernard</b></sub></a><br /><a href="#design-EwenBernard" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=EwenBernard" title="Code">💻</a></td>
+    <td align="center"><a href="https://stackoverflow.com/users/2970351/m-reza-nasirloo?tab=profile"><img src="https://avatars.githubusercontent.com/u/7994739?v=4?s=100" width="100px;" alt=""/><br /><sub><b>M. Reza Nasirloo</b></sub></a><br /><a href="#design-MRezaNasirloo" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=MRezaNasirloo" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.linkedin.com/in/jayagrawallink"><img src="https://avatars.githubusercontent.com/u/53251498?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jay Agrawal</b></sub></a><br /><a href="#design-JayAgrawalgit" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=JayAgrawalgit" title="Code">💻</a></td>
+    <td align="center"><a href="https://medium.com/@deshayk"><img src="https://avatars.githubusercontent.com/u/70130858?v=4?s=100" width="100px;" alt=""/><br /><sub><b>DeShay</b></sub></a><br /><a href="#design-deshayk" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=deshayk" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Jay206-Programmer"><img src="https://avatars.githubusercontent.com/u/62549240?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jay206-Programmer</b></sub></a><br /><a href="#design-Jay206-Programmer" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=Jay206-Programmer" title="Code">💻</a></td>
+    <td align="center"><a href="http://fb.com/elenderg"><img src="https://avatars.githubusercontent.com/u/1089556?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Elender</b></sub></a><br /><a href="#design-elenderg" title="Design">🎨</a> <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/commits?author=elenderg" title="Code">💻</a></td>
   </tr>
 </table>
 

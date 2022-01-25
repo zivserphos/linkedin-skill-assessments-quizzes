@@ -901,3 +901,50 @@ val binaryStr = "00001111"
 - [ ] `val myInt = binaryStr.toInt("0b")`
 - [ ] `val myInt = binaryStr.toInt()`
 - [x] `val myInt = binaryStr.toInt(2)`
+
+#### Q75. In a Kotlin program, which lines can be marked with a label
+
+- [ ] `Any program line can be marked with a label`
+- [ ] `Any statement can be marked with a label`
+- [x] `Any expression can be marked with a lable` ([reference](https://agrawalsuneet.github.io/blogs/label-reference-in-kotlin/))
+- [ ] `Only the beginning of loops can be marked with a label`
+
+#### Q76. All classes in Kotlin inherit from which superclass?
+
+- [ ] `Default`
+- [ ] `Super`
+- [x] `Any` ([reference](https://kotlinlang.org/docs/inheritance.html))
+- [ ] `Object`
+
+#### Q77. You have written a function, sort(), that should accept only collections that implement the `Comparable` interface. How can you restrict the function?
+
+```kotlin
+fun sort(list: List<T>): List <T> {
+    return list.sorted()
+}
+```
+
+- [ ] `Add <T -> Comparable<T>> between the `fun` keyword and the function name`
+- [ ] `Add Comparable<T> between the `fun` keyword and the function name`
+- [x] `Add <T : Comparable<T>> between the `fun` keyword and the function name` ([reference](https://kotlinlang.org/docs/generics.html#generic-functions))
+- [ ] `Add <T where Comparable<T>> between the `fun` keyword and the function name`
+
+#### Q78. Kotlin classes are final by default. What does final mean?
+
+- [ ] final means that you cannot use interfaces with this class.
+- [ ] final means that this is the only file that can use the class.
+- [x] final means that you cannot extend the class.([reference](https://kotlinlang.org/docs/inheritance.html))
+- [ ] final classes cannot be used in the finally section of a try/catch block.
+
+#### Q79. You have created an array to hold three strings. When you run the code bellow, the compiler displays an error. Why does the code fail?
+
+```
+val names = arrayOf<String>(3)
+names[3]= "Delta"
+
+```
+
+- [x] Arrays use zero-based indexes. The value 3 is outside of the array's bounds
+- [ ] You accessed the element with an index but should have used.set().
+- [ ] You declared the array with val but should have used var
+- [ ] You cannot changes the value of an element of an array. You should have used a mutable list.
