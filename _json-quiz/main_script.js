@@ -16,7 +16,7 @@ filesToConvert.map((fileName) => {
   const file = fs
     .readFileSync(`../${fileName}/${fileName}-quiz.md`)
     .toString()
-    .split("###");
+    .split("#####");
 
   const questions = file.slice(1).map((question) => {
     const query = genQuery(question);
